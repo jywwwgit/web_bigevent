@@ -20,4 +20,5 @@
    ### 3.在本地创建分支cs并切换到该分支   
         （git checkout -b 远程分支名 origin/远程分支名）
    ### 注意：删除本地分支（git branch -d 分支名），查看本地分支（git branch -a ）  
-          删除远程分支（git push origin --delete 远程分支名），查看远程分支（git branch -a）
+             删除远程分支（git push origin --delete 远程分支名），查看远程分支（git branch -a）
+             创建本地新分支（git checkout -b 分支名）
